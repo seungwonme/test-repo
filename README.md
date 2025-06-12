@@ -3,9 +3,10 @@
 ```bash
 git add
 git commit -m ""
+git push
+
 git status
 git log
-git push
 ```
 
 깃 3가지 상태
